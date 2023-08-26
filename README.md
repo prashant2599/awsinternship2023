@@ -9,11 +9,15 @@ Please check and follow me on medium and Linkedin
 AWS TASK 
 Task 1:- 
 https://www.linkedin.com/pulse/case-study-airbnb-using-aws-cloud-prashant-singh?utm_source =share&utm_medium=member_android&utm_campaign=share_via 
+
 Task 2:- 
 https://medium.com/@singhprashant2599/using-boto3-to-create-s3-bucket-and-describe-ec2-in stance-767ecd8e34e8 
+
 Task 3:- https://medium.com/@singhprashant2599/aws-services-fdb9d379892d 
+
 Task 4:- 
 https://medium.com/@singhprashant2599/boto3-python-code-to-integrate-with-lambda-api-gate way-6d2970676e0d 
+
 Task 5:- 
 https://medium.com/@singhprashant2599/integrating-lambda-with-services-like-s3-and-api-gate way-and-retrieving-the-lambda-function-event-7278c4e8bbcd
 
