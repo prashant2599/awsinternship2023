@@ -3,14 +3,14 @@
 💥Thrilled and Excited News💥
 
 
-![Uploading Prashant Singh.jpg…]()
 
 
+![Prashant Singh](https://github.com/prashant2599/awsinternship2023/assets/60805169/481b62e6-d23d-470e-a44f-99e4cc9b914f)
 
 
-I have Completed the AWS Cloud Computing Internship under the guidance and mentor Mr. Vimal Daga at Linuxworld Informatics Pvt Ltd.
+I have Completed the AWS Cloud Computing Internship under the guidance and mentor Mr. Vimal Daga at LinuxWorld Informatics Pvt Ltd.
 During this internship, I have worked on Cloud technology(AWS), Containerization tools (Docker), and Python Programming Language. Also available are my blogs where I have shared a medium blog list
-Please check and follow me on medium and Linkedin
+Please check and follow me on Medium and Linkedin
 
 AWS TASK 
 Task 1:- 
