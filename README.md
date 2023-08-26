@@ -2,7 +2,6 @@
 
 💥Thrilled and Excited News💥
 
-![Uploading Prashant Singh.jpg…]()
 
 
 I have Completed the AWS Cloud Computing Internship under the guidance and mentor Mr. Vimal Daga at Linuxworld Informatics Pvt Ltd.
