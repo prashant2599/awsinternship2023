@@ -10,9 +10,8 @@ while True:
 
     # Display the frame
     cv2.imshow('Video Stream', frame)
-
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
+    cv2.waitKey()
+        
 
 # Release the webcam and close the window
 cap.release()
